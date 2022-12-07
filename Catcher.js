@@ -11,7 +11,7 @@
         bgImage.onload = function () {
             bgReady = true;
         };
-        bgImage.src = "images/background.png";
+        bgImage.src = "Images/background.png";
         
         // Anh Hung
         var heroReady = false;
@@ -19,7 +19,7 @@
         heroImage.onload = function () {
             heroReady = true;
         };
-        heroImage.src = "images/hero.png";
+        heroImage.src = "Images/hero.png";
         
         // Quai Vat
         var monsterReady = false;
@@ -27,7 +27,7 @@
         monsterImage.onload = function () {
             monsterReady = true;
         };
-        monsterImage.src = "images/monster.png";
+        monsterImage.src = "Images/monster.png";
         
         // Nhan Vat
         var hero = {
