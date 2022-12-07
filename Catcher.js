@@ -49,7 +49,7 @@
 
         addEventListener("keyup", function(e){
             delete keysDown[e.keyCode];
-        }, false)
+        }, false);
         
         // Khoi dong lai khi bat quai vat
         var reset = function (){
